@@ -1,7 +1,6 @@
 # Pet.comCarinho
 Instruções para executar:
->Executar comando yarn dev no terminal
->Em seguida digitar "o", isso irá abrir o navegador com o programa 
+>Executar comando yarn dev no terminal. Em seguida digitar "o", isso irá abrir o navegador com o programa 
 
 
 Descrição:
