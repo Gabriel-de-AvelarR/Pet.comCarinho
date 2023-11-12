@@ -1,4 +1,10 @@
 # Pet.comCarinho
+Instruções para executar:
+>Executar comando yarn dev no terminal
+>Em seguida digitar "o", isso irá abrir o navegador com o programa 
+
+
+Descrição:
 Site de vendas para produtos de animais de estimação. Nós enviamos o produto direto para sua casa. Frete não incluso
 
 Requisitos: o sistema deve possuir uma etapa de cadastro e verificação de credenciais para entrar na loja. Haverão duas categorias de usuários, administrador e usuário. Os administradores deverão ter seus emails e senhas cadastrados por outros administradores, não podendo utilizar o campo de registro de dados comum aos outros usuários. 
